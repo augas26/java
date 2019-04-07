@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.superHero.SuperHero.SuperHeroDao.HeroDaoDBTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.777 s - in com.superHero.SuperHero.SuperHeroDao.HeroDaoDBTest
