@@ -1,0 +1,16 @@
+body {
+    background-color: lightcyan;
+}
+
+hi {
+    background-color: indigo;
+    text-align: center;
+    margin: 0px;
+}
+#mainNavbar{
+    background-color: blue;
+}
+#footer{
+    text-align: center;
+    color: white;
+}
