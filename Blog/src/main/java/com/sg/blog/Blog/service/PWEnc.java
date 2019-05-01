@@ -2,10 +2,7 @@ package com.sg.blog.Blog.service;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
-/**
- *
- * @author Stuart
- */
+
 public class PWEnc {
     public static void main(String[] args) {
         String clearTxtPw = "password";
