@@ -9,10 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
-/**
- *
- * @author Stuart
- */
+
 @Entity(name = "role")
 public class Role {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
